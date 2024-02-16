@@ -1,0 +1,5 @@
+IP=10.10.10.1
+RadiusSecret=radiussecret
+Username=username
+Password=password
+Method=CHAP
